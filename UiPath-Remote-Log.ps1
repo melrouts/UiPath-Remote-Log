@@ -1,6 +1,6 @@
 ﻿# Watch UiPath log remote
 #
-# @2021 Eduard.Garanskij@walmart.com
+# @2021 Eduard.Garanskij@rpa247.com
 
 #############  Variables #############
 $log_host = "Your_Host_Name-Here"
