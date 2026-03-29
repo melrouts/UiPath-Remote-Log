@@ -1,0 +1,7 @@
+{
+    "host": "Your_Host_Name-Here",
+    "domain": "YOUR_DOMAIN",
+    "user": "your-username",
+    "tailLines": 5,
+    "logLevel": "Trace"
+}

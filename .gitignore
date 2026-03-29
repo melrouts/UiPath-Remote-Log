@@ -1,0 +1,2 @@
+# Exclude local configuration file that may contain sensitive information
+config.json
